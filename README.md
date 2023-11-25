@@ -2,6 +2,8 @@
 A modpack for Lethal Company that brings many quality of life additions (and some fun things ;))
 
 # Mods
+- LC_API
+- BiggerLobby 2.0.4
 - x753 More Suits 1.3.1
 - AlexCodesGames Additional Suits 1.0.1
 - MetalPipeSFX Horn Moan 2.0.0
