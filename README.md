@@ -21,10 +21,12 @@ A modpack for Lethal Company that brings many quality of life additions (and som
 - togglemybits StrangeObjects           1.2.1
 - Sligili MoreEmotes                    1.0.0
 - Evaisa LethaLib                       0.4.5
+- Evasia HookGenPatcher                 0.0.5
+- Evasia LethalThings                   0.4.0
 
 # CHANGELOG
 ## 12/4/2023
-- Added WeatherMultipliers, StrangeObjects, MoreEmotes, and LethalLib
+- Added WeatherMultipliers, StrangeObjects, MoreEmotes, Lethal Things, HookGenPatcher, and LethalLib
 - Replaced BiggerLobby with MoreCompany
 - Updated Reserved*Slot Mods
     - ReservedItemSlotCore to 1.4.2
