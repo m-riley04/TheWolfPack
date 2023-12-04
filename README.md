@@ -1,6 +1,19 @@
 # veXs-Lethal-Company-Pack
 A modpack for Lethal Company that brings many quality of life additions (and some fun things ;))
 
+# REQUIREMENTS
+You must install [BepInEx](https://thunderstore.io/c/lethal-company/p/BepInEx/BepInExPack/) 5.4.2100
+
+# INSTALLING
+If you are installing the pack for the first time, you can simply drag the folders into your BepInEx folder.
+
+# UPDATING
+When updating the pack, delete the following folders **BEFORE** dragging the folders in:
+- config
+- plugins
+- patchers
+After this, you can drag the folders in from the repo into your BepInEx folder.
+
 # Mods
 - LC_API
 - notnotnotswipez MoreCompany           1.6.0
