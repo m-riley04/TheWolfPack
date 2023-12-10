@@ -16,9 +16,11 @@ After this, you can drag the folders in from the repo into your BepInEx folder.
 
 # Mods
 - LC_API
-- notnotnotswipez MoreCompany           1.6.0
+- notnotnotswipez MoreCompany           1.7.1
 - x753 More Suits                       1.3.1
+- x753 Mimics                           1.1.2
 - AlexCodesGames Additional Suits       1.0.1
+- Verity TooManySuits                   1.0.3
 - MetalPipeSFX Horn Moan                2.0.0
 - Suskitech Always Hear Active Walkies  1.3.0
 - BatTeam Lethal Fashion                1.0.3
@@ -27,17 +29,31 @@ After this, you can drag the folders in from the repo into your BepInEx folder.
 - Pooble-LC BetterSaves                 1.4.0
 - tinyhoot ShipLoot                     1.0.0
 - Rozebud FOV_Adjust                    1.1.0
-- FlipMods ReservedItemSlotCore         1.4.2
-- FlipMods ReservedFlashlightSlot       1.2.1
-- FlipMods ReservedWalkieSlot           1.2.1
+- FlipMods ReservedItemSlotCore         1.4.4
+- FlipMods ReservedFlashlightSlot       1.4.5
+- FlipMods ReservedWalkieSlot           1.4.6
 - Blorb WeatherMultiplier               1.0.0
 - togglemybits StrangeObjects           1.2.1
-- Sligili MoreEmotes                    1.0.0
-- Evaisa LethaLib                       0.4.5
+- Sligili MoreEmotes                    1.1.1
+- Evaisa LethaLib                       0.6.2
 - Evasia HookGenPatcher                 0.0.5
-- Evasia LethalThings                   0.4.0
+- Evasia LethalThings                   0.7.0
+- Sylveon Jerma985ClipsTV               1.0.5
+- Rattenbonkers TVLoader                1.1.0
+- Krayken DynamicDeadline               1.1.0
 
 # CHANGELOG
+## 12/9/2023
+- Added Jerma985ClipsTV, TVLoader, DynamicDeadline, TooManySuits, Skinwalkers, Mimics, SolosBodycams, CustomBoomboxMusic, MoreEmotes
+- Updated:
+    - MoreCompany to 1.7.1
+    - ReservedItemSlotCore to 1.4.4
+    - ReservedFlashlightSlot to 1.4.5
+    - ReservedWalkieSlot to 1.4.6
+    - LethalLib to 0.6.2
+    - LethalThings to 0.7.0
+    - MoreEmotes to 1.1.1
+
 ## 12/4/2023
 - Added WeatherMultipliers, StrangeObjects, MoreEmotes, Lethal Things, HookGenPatcher, and LethalLib
 - Replaced BiggerLobby with MoreCompany
