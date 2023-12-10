@@ -5,7 +5,7 @@ A modpack for Lethal Company that brings many quality of life additions (and som
 You must install [BepInEx](https://thunderstore.io/c/lethal-company/p/BepInEx/BepInExPack/) 5.4.2100. 
 Installation instructions can be found there. 
 ## NOTE
-You **MUST** run BepInEx at least one time for setup. After doing so, close the game and then 
+You **MUST** run BepInEx at least one time for setup. After doing so, close the game and then proceed.
 
 # INSTALLING
 If you are installing the pack for the first time:
