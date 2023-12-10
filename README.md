@@ -2,17 +2,32 @@
 A modpack for Lethal Company that brings many quality of life additions (and some fun things ;))
 
 # REQUIREMENTS
-You must install [BepInEx](https://thunderstore.io/c/lethal-company/p/BepInEx/BepInExPack/) 5.4.2100
+You must install [BepInEx](https://thunderstore.io/c/lethal-company/p/BepInEx/BepInExPack/) 5.4.2100. 
+Installation instructions can be found there. 
+#### NOTE
+You **MUST** run BepInEx at least one time for setup. After doing so, close the game and then 
 
 # INSTALLING
-If you are installing the pack for the first time, you can simply drag the folders into your BepInEx folder.
+If you are installing the pack for the first time:
+1. Download the modpack (click the green "code" button, and then click "Download Zip")
+2. Find your downloaded file and extract/unzip it an arbitrary folder
+3. Open your Lethal Company game files
+    - Open your Steam library
+    - Right click on "Lethal Company"
+    - Hover over "Manage"
+    - Click on "Browse local files"
+4. Open your BepInEx folder within the Lethal Company game files
+5. Drag/copy-and-paste the 3 folders from the extracted zip file into the BepInEx folder
+6. Run the game!
 
 # UPDATING
-When updating the pack, delete the following folders **BEFORE** dragging the folders in:
-- config
-- plugins
-- patchers
-After this, you can drag the folders in from the repo into your BepInEx folder.
+1. Complete steps 1-4 of the "INSTALLING" section
+2. Select the folloing folders and delete them:
+    - config
+    - plugins
+    - patchers
+3. Drag/copy-and-paste the 3 folders from the extracted zip file into the BepInEx folder
+4. Run the game!
 
 # Mods
 - LC_API
