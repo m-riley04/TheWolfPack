@@ -30,7 +30,7 @@ If you are installing the pack for the first time:
 4. Run the game!
 
 # Mods
-- LC_API
+- LC_API                                2.2.0
 - notnotnotswipez MoreCompany           1.7.1
 - x753 More Suits                       1.3.1
 - x753 Mimics                           1.1.2
@@ -56,10 +56,13 @@ If you are installing the pack for the first time:
 - Sylveon Jerma985ClipsTV               1.0.5
 - Rattenbonkers TVLoader                1.1.0
 - Krayken DynamicDeadline               1.1.0
+- RugbugRedfern Skinwalkers             2.0.1
+- Steven CustomBoomboxMusic             1.4.0
+- CapyCat SolosBodycams                 1.0.4
 
 # CHANGELOG
 ## 12/9/2023
-- Added Jerma985ClipsTV, TVLoader, DynamicDeadline, TooManySuits, Skinwalkers, Mimics, SolosBodycams, CustomBoomboxMusic, MoreEmotes
+- Added Jerma985ClipsTV, TVLoader, DynamicDeadline, TooManySuits, Skinwalkers, Mimics, SolosBodycams, CustomBoomboxMusic
 - Updated:
     - MoreCompany to 1.7.1
     - ReservedItemSlotCore to 1.4.4
