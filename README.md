@@ -1,4 +1,4 @@
-# veXs-Lethal-Company-Pack
+# The Wolf Pack - A Lethal Company Modpack
 A modpack for Lethal Company that brings many quality of life additions (and some fun things ;))
 
 # REQUIREMENTS
