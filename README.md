@@ -37,35 +37,36 @@ If you are installing the pack for the first time:
 4. Run the game!
 
 # Mods
-- LC_API                                2.2.0
-- notnotnotswipez MoreCompany           1.7.1
-- x753 More Suits                       1.3.1
-- x753 Mimics                           1.1.2
-- AlexCodesGames Additional Suits       1.0.1
-- Verity TooManySuits                   1.0.3
-- MetalPipeSFX Horn Moan                2.0.0
-- Suskitech Always Hear Active Walkies  1.3.0
-- BatTeam Lethal Fashion                1.0.3
-- anormaltwig LateCompany               1.0.4
-- AllToasters SpectateEnemies           1.2.0
-- Pooble-LC BetterSaves                 1.4.0
-- tinyhoot ShipLoot                     1.0.0
-- Rozebud FOV_Adjust                    1.1.0
-- FlipMods ReservedItemSlotCore         1.4.4
-- FlipMods ReservedFlashlightSlot       1.4.5
-- FlipMods ReservedWalkieSlot           1.4.6
-- Blorb WeatherMultiplier               1.0.0
-- togglemybits StrangeObjects           1.2.1
-- Sligili MoreEmotes                    1.1.1
-- Evaisa LethaLib                       0.6.2
-- Evasia HookGenPatcher                 0.0.5
-- Evasia LethalThings                   0.7.0
-- Sylveon Jerma985ClipsTV               1.0.5
-- Rattenbonkers TVLoader                1.1.0
-- Krayken DynamicDeadline               1.1.0
-- RugbugRedfern Skinwalkers             2.0.1
-- Steven CustomBoomboxMusic             1.4.0
-- CapyCat SolosBodycams                 1.0.4
+- Additional Suits (AlexCodesGames)       1.0.1
+- Always Hear Active Walkies (Suskitech)  1.3.0
+- BetterSaves (Pooble-LC)                 1.4.0
+- CustomBoomboxMusic (Steven)             1.4.0
+- DynamicDeadline (Krayken)               1.1.0
+- FOV_Adjust (Rozebud)                    1.1.0
+- HookGenPatcher (Evasia)                 0.0.5
+- Horn Moan (MetalPipeSFX)                2.0.0
+- Jerma985ClipsTV (Sylveon)               1.0.5
+- LC_API (2018)                           2.2.0
+- LateCompany (anormaltwig)               1.0.4
+- LethaLib (Evaisa)                       0.6.2
+- Lethal Fashion (BatTeam)                1.0.3
+- LethalThings (Evasia)                   0.7.0
+- Mimics (x753)                           1.1.2
+- More Suits (x753)                       1.3.1
+- MoreCompany (notnotnotswipez)           1.7.1
+- MoreEmotes (Sligili)                    1.1.1
+- ReservedFlashlightSlot (FlipMods)       1.4.5
+- ReservedItemSlotCore (FlipMods)         1.4.4
+- ReservedWalkieSlot (FlipMods)           1.4.6
+- ShipLoot (tinyhoot)                     1.0.0
+- Skinwalkers (RugbugRedfern)             2.0.1
+- SolosBodycams (CapyCat)                 1.0.4
+- SpectateEnemies (AllToasters)           1.2.0
+- StrangeObjects (togglemybits)           1.2.1
+- TVLoader (Rattenbonkers)                1.1.0
+- TooManySuits (Verity)                   1.0.3
+- WeatherMultiplier (Blorb)               1.0.0
+
 
 # CHANGELOG
 ## 12/9/2023
