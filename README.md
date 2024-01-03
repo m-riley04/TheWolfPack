@@ -2,12 +2,19 @@
 A modpack for Lethal Company that brings many quality of life additions (and some fun things ;))
 
 # REQUIREMENTS
+The modpack is designed for Lethal Company version 45.  
+
+# AUTOMATIC SETUP
+You can use the [custom modpack manager](https://github.com/m-riley04/LethalCompanyModpackInstaller) I have created to install and manage the modpack automatically. You can directly download the [latest release](https://github.com/m-riley04/LethalCompanyModpackInstaller/releases) of the modpack manager, and instructions on how to use it can be found in the repository's [README](https://github.com/m-riley04/LethalCompanyModpackInstaller/blob/master/README.md).
+
+# MANUAL SETUP
+## INSATLLING BEPINEX
 You must install [BepInEx](https://thunderstore.io/c/lethal-company/p/BepInEx/BepInExPack/) 5.4.2100. 
 Installation instructions can be found there. 
-## NOTE
+### NOTE
 You **MUST** run BepInEx at least one time for setup. After doing so, close the game and then proceed.
 
-# INSTALLING
+## INSTALLATION
 If you are installing the pack for the first time:
 1. Download the modpack (click the green "code" button, and then click "Download Zip")
 2. Find your downloaded file and extract/unzip it an arbitrary folder
@@ -20,7 +27,7 @@ If you are installing the pack for the first time:
 5. Drag/copy-and-paste the 3 folders from the extracted zip file into the BepInEx folder
 6. Run the game!
 
-# UPDATING
+## UPDATING
 1. Complete steps 1-4 of the "INSTALLING" section
 2. Select the following folders and delete them:
     - config
