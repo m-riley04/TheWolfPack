@@ -67,8 +67,9 @@ If you are installing the pack for the first time:
 - TooManySuits (Verity)                   1.0.3
 - WeatherMultiplier (Blorb)               1.0.0
 
+# CHANGELOG (DEPRACATED)
+Please note that this changelog is no longer being maintained. Future changes will be documented within each version release.
 
-# CHANGELOG
 ## 12/9/2023
 - Added Jerma985ClipsTV, TVLoader, DynamicDeadline, TooManySuits, Skinwalkers, Mimics, SolosBodycams, CustomBoomboxMusic
 - Updated:
