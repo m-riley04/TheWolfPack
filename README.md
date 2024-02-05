@@ -64,6 +64,7 @@ If you are installing the pack for the first time:
 - LethalThings (Evasia)                   0.9.4
 - MaskedEnemyOverhaul (HomelessGinger)    3.1.2
 - Mimics (x753)                           2.3.2
+- MirrorDecor (quackandcheese)            1.3.2
 - More Suits (x753)                       1.4.1
 - MoreCompany (notnotnotswipez)           1.7.6
 - MoreEmotes (Sligili)                    1.3.3
@@ -74,6 +75,8 @@ If you are installing the pack for the first time:
 - ReservedFlashlightSlot (FlipMods)       1.6.3
 - ReservedItemSlotCore (FlipMods)         1.8.17
 - ReservedWalkieSlot (FlipMods)           1.6.2
+- ReservedWeaponSlot (FlipMods)           1.0.8
+- Runtime Netcode Patcher (Ozone)         0.2.5
 - ShipLoot (tinyhoot)                     1.0.0
 - Skinwalkers (RugbugRedfern)             4.0.1
 - SolosBodycams (CapyCat)                 1.0.5
