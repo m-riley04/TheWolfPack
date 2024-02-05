@@ -38,56 +38,54 @@ If you are installing the pack for the first time:
 
 # Mods
 - 1000QuotaStare (ManiaBania)             1.0.0
-- Additional Suits (AlexCodesGames)       1.0.1
-- Always Hear Active Walkies (Suskitech)  1.3.0
-- BetterItemScan (PopleZoo)               2.1.7
+- Additional Suits (AlexCodesGames)       2.0.0
+- Always Hear Active Walkies (Suskitech)  1.4.4
+- BetterItemScan (PopleZoo)               3.0.1
 - BetterSaves (Pooble-LC)                 1.4.0
 - BetterTeleporter (SirTyler)             1.2.2
-- BuyableShotgunShells (MegaPiggy)        1.0.1
-- Coroner (EliteMasterEric)               1.5.3
+- BuyableShotgunShells (MegaPiggy)        1.0.5
+- Coroner (EliteMasterEric)               1.6.0
 - CustomBoomboxMusic (Steven)             1.4.0
-- DetailedScan (fivetoofive)              1.2.1
-- DynamicDeadline (Krayken)               1.1.0
+- DynamicDeadline (Krayken)               1.2.2
 - EmployeeAssignments (amnsoft)           1.1.0
 - FOV_Adjust (Rozebud)                    1.1.0
 - GlowStickSuits (Norman)                 1.0.4
 - GorillaSuits (GorillaBeast)             0.0.10
 - HealthMetrics (matsuura)                1.0.2
 - HookGenPatcher (Evasia)                 0.0.5
-- Horn Moan (MetalPipeSFX)                2.0.0
 - Jerma985ClipsTV (Sylveon)               1.0.5
-- LC_API (2018)                           2.2.0
-- LateCompany (anormaltwig)               1.0.9
-- LethalCompany_InputUtils (Rune580)      0.4.4
-- LethalConfig (AinaVT)                   1.0.1
-- LateGameUpgrades (malco)                2.8.6
-- LethaLib (Evaisa)                       0.6.2
-- Lethal Fashion (BatTeam)                1.0.3
-- LethalThings (Evasia)                   0.8.8
-- MaskedEnemyOverhaul (HomelessGinger)    2.1.0
-- Mimics (x753)                           1.1.2
+- LC_API (2018)                           3.4.5
+- LateCompany (anormaltwig)               1.0.11
+- LethalCompany_InputUtils (Rune580)      0.6.3
+- LethalConfig (AinaVT)                   1.3.4
+- LateGameUpgrades (malco)                3.1.1
+- LethaLib (Evaisa)                       0.14.2
+- Lethal Fashion (BatTeam)                1.0.6
+- LethalThings (Evasia)                   0.9.4
+- MaskedEnemyOverhaul (HomelessGinger)    3.1.2
+- Mimics (x753)                           2.3.2
 - More Suits (x753)                       1.4.1
-- MoreCompany (notnotnotswipez)           1.7.2
-- MoreEmotes (Sligili)                    1.2.2
+- MoreCompany (notnotnotswipez)           1.7.6
+- MoreEmotes (Sligili)                    1.3.3
 - MoreMoneyStart (299792458)              2.1.0
-- NeedyCats (Jordo)                       1.0.2
+- NeedyCats (Jordo)                       1.1.1
 - PeterGriffinSuit (yeahimliam)           1.0.1
 - PushCompany (Midge)                     1.2.0
-- ReservedFlashlightSlot (FlipMods)       1.5.5
-- ReservedItemSlotCore (FlipMods)         1.7.6
-- ReservedWalkieSlot (FlipMods)           1.5.3
+- ReservedFlashlightSlot (FlipMods)       1.6.3
+- ReservedItemSlotCore (FlipMods)         1.8.17
+- ReservedWalkieSlot (FlipMods)           1.6.2
 - ShipLoot (tinyhoot)                     1.0.0
-- Skinwalkers (RugbugRedfern)             2.0.1
-- SolosBodycams (CapyCat)                 1.0.4
-- SpectateEnemies (AllToasters)           1.2.0
-- StrangeObjects (togglemybits)           1.2.1
-- TerminalAPI (NotAtomicBomb)             1.5.0
+- Skinwalkers (RugbugRedfern)             4.0.1
+- SolosBodycams (CapyCat)                 1.0.5
+- SpectateEnemies (AllToasters)           2.3.0
+- StrangeObjects (togglemybits)           1.2.3
+- TerminalAPI (NotAtomicBomb)             1.5.1
 - TerminalClock (NotAtomicBomb)           1.0.5
-- TVLoader (Rattenbonkers)                1.1.0
-- TooManySuits (Verity)                   1.0.3
-- VoideHUD (5Bit)                         1.0.4
-- WeatherMultiplier (Blorb)               1.0.0
-- YippeeScrap (AinaVT)                    1.0.3
+- TVLoader (Rattenbonkers)                1.1.1
+- TooManySuits (Verity)                   1.0.5
+- VoiceHUD (5Bit)                         1.0.4
+- WeatherMultiplier (Blorb)               1.1.0
+- YippeeScrap (AinaVT)                    1.0.7
 
 # CHANGELOG (DEPRACATED)
 Please note that this changelog is no longer being maintained. Future changes will be documented within each version release.
